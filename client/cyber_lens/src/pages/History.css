@@ -20,7 +20,7 @@
     width: 100%;
     max-width: 1000px;
     text-align: center;
-    background: rgba(255, 255, 255, 0.05); 
+    background: rgba(0, 0, 0, 0.186); 
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
     border-radius: 12px;
 }
